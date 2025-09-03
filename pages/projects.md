@@ -3,8 +3,7 @@ layout: page
 show_meta: false
 title: "Projects"
 subheadline: "A collection of works, big and small, over my career."
-header:
-   image_fullwidth: "header_unsplash_5.jpg"
+header: no
 permalink: "/projects/"
 ---
 <ul>
