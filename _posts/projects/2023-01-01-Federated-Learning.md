@@ -14,7 +14,7 @@ tags:
 image:
     title: federated-learning-pipeline.png
     caption: UI of Azure ML Pipelines
-    url: https://github.com/Azure-Samples/azure-ml-federated-learning/tree/main
+    caption_url: https://github.com/Azure-Samples/azure-ml-federated-learning/tree/main
 author: Jeff Omhover
 show_meta: false
 ---
