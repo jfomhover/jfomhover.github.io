@@ -10,5 +10,5 @@
 
 - name: BlueSky
   url: https://bsky.app/profile/jeffinsea.bsky.social
-  class: icon-bluesky
+  class: icon-chat
   title: BlueSky Profile
