@@ -6,6 +6,7 @@ title:  "Blog"
 breadcrumb: true
 tags:
     - post format
+header: no
 image:
     title: blog-banner.jpg
 permalink: "/blog/"
