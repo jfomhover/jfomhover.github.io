@@ -19,26 +19,24 @@ author: Jeff Omhover
 show_meta: false
 ---
 
-FEDERATED LEARNING ON AML, Lead Architect, 2022-2023 
-
 > Budget: undisclosed  
 > Team Size: 5 data scientists, one engineering team  
-> Context: Microsoft, US 
-
-Implement a ML strategy for respecting data trust boundaries in a federated consortium 
-
-Develop a fully functional accelerator showing FL capabilities [aka.ms/FL] 
-
-Engage end-to-end with external customers from requirements to working MVP 
-
-Tools: Azure Machine Learning, Bicep, Azure 
-
-https://github.com/Azure-Samples/azure-ml-federated-learning
+> Context: Microsoft, US
+> Code: [Azure-Samples/azure-ml-federated-learning](https://github.com/Azure-Samples/azure-ml-federated-learning)  
+> Related: [Swift innovates with Azure confidential computing to help secure global financial transactions](https://www.microsoft.com/en/customers/story/1637929534319366070-swift-banking-capital-markets-azure-machine-learning)  
 
 ## 🚀 Project Objectives
 
+Enable production-ready Federated Learning (FL) within Azure Machine Learning to support privacy-preserving, multi-party model training. The goal was to empower internal and external partners—including three banks and one logistics company—to collaborate on machine learning without sharing raw data, using secure infrastructure and confidential compute.
+
 ## 🛠️ What I Did
 
+**LEAD ARCHITECT** - Led the design and implementation of secure provisioning for FL in Azure ML, including private workspaces, confidential compute, and user-friendly sandbox environments. Integrated FL capabilities into the Azure ML SDK, shipping both internal and customer-facing features. Delivered benchmark pipelines, a [self-service FL repository](https://github.com/Azure-Samples/azure-ml-federated-learning). Shipped two internal models using this framework.
+
+Managed a growing funnel of interested customers and early adopters, qualifying use cases and guiding multiple proof-of-concept engagements to closure. This helped shape product direction through real-world feedback and ensured alignment between technical capabilities and business needs.
 
 ## 🎓 What I Learned
 
+Balancing cutting-edge research with enterprise-grade security and usability is key to driving adoption. Translating complex technical visions into tangible product experiences builds trust and accelerates impact.
+
+Managing the customer funnel is not just about interest—it's about reducing friction, nurturing engagement, and scaling momentum into real deployments. This experience sharpened my ability to prioritize, communicate clearly, and adapt infrastructure to meet diverse customer needs.
