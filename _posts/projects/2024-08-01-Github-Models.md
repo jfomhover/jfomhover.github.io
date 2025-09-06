@@ -11,7 +11,7 @@ tags:
     - github
     - microsoft
 image:
-    title: github-models-ui.png
+    title: projects-github-models.png
     caption: UI of GitHub Models
 author: Jeff Omhover
 show_meta: false

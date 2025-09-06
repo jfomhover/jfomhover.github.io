@@ -12,18 +12,19 @@ tags:
     - microsoft
     - data-science
 image:
-    title: federated-learning-pipeline.png
-    caption: UI of Azure ML Pipelines
-    caption_url: https://github.com/Azure-Samples/azure-ml-federated-learning/tree/main
+    title: projects-federated-learning.png
+    caption: Federated Learning Use Cases
+    caption_url: https://github.com/Azure-Samples/azure-ml-federated-learning
 author: Jeff Omhover
 show_meta: false
 ---
 
-> Budget: undisclosed  
-> Team Size: 5 data scientists, one engineering team  
-> Context: Microsoft, US
-> Code: [Azure-Samples/azure-ml-federated-learning](https://github.com/Azure-Samples/azure-ml-federated-learning)  
-> Related: [Swift innovates with Azure confidential computing to help secure global financial transactions](https://www.microsoft.com/en/customers/story/1637929534319366070-swift-banking-capital-markets-azure-machine-learning)  
+- Budget: undisclosed
+- Team Size: 5 data scientists, 1 SDK engineer
+- Context: Microsoft, US
+- Links:
+  - [Azure-Samples/azure-ml-federated-learning](https://github.com/Azure-Samples/azure-ml-federated-learning)  
+  - [Swift innovates with Azure confidential computing to help secure global financial transactions](https://www.microsoft.com/en/customers/story/1637929534319366070-swift-banking-capital-markets-azure-machine-learning)  
 
 ## 🚀 Project Objectives
 

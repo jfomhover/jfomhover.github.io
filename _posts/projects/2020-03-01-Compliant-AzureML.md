@@ -12,15 +12,16 @@ tags:
     - microsoft
     - data-science
 image:
-    title: azure-ml-ui.png
-    caption: UI of Azure ML Pipelines
+    title: projects-azureml-pipeline-101.png
+    caption: Azure ML Pipelines
+    caption_url: https://learn.microsoft.com/azure/machine-learning
 author: Jeff Omhover
 show_meta: false
 ---
 
-> Budget: undisclosed  
-> Team Size: managing 5-6 data scientists, working with two internal large organizations  
-> Context: Microsoft, US
+- Budget: undisclosed
+- Team Size: managing 5-6 data scientists, working with two internal large organizations
+- Context: Microsoft, US
 
 ## 🚀 Project Objectives
 
