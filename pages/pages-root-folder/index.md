@@ -9,8 +9,8 @@ header:
   image_fullwidth: marketing-build2024-jeffonstage.jpg
 widget1:
   title: "Projects"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
+  url: 'https://jfomhover.github.io/project/'
+  image: marketing-working-303x182.jpg
   text: "As an AI Professional for 20+ years, I've worked on a broad range of projects, with many disciplines. I had the opportunity to work on exploratory research and time-crunching launches."
 widget2:
   title: "Why use this theme?"

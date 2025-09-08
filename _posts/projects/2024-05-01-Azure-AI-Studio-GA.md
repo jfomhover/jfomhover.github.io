@@ -10,7 +10,7 @@ tags:
     - product-management
     - microsoft
 image:
-    title: projects-build2024-building-copilots.png
+    title: projects-azure-ai-studio.jpg
     caption: Azure AI Studio demo at Build 2024
     caption_url: https://www.youtube.com/watch?v=O-u2RILnPYc
 author: Jeff Omhover
