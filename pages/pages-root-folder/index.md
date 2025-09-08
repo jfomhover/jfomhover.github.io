@@ -8,19 +8,19 @@ layout: frontpage
 header:
   image_fullwidth: marketing-build2024-jeffonstage.jpg
 widget1:
+  title: "Resume"
+  url: 'https://jfomhover.github.io/resume/'
+  image: marketing-drawing-working.jpg
+  text: "Experienced in AI across academia and industry, with a focus on building developer-facing platforms and leading multidisciplinary teams in product and system design."
+widget2:
   title: "Projects"
   url: 'https://jfomhover.github.io/project/'
-  image: marketing-working-303x182.jpg
+  image: marketing-drawing-projects.jpg
   text: "As an AI Professional for 20+ years, I've worked on a broad range of projects, with many disciplines. I had the opportunity to work on exploratory research and time-crunching launches."
-widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Blog & Creative Writing"
   url: 'https://jfomhover.github.io/blog/'
-  image: marketing-creative-writing-303x182.jpg
+  image: marketing-drawing-writing.jpg
   text: "Some personal thoughts, blurbs, annotations, contemplations in the margin of what I do."
 #
 # Use the call for action to show a button on the frontpage
