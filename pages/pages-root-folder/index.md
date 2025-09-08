@@ -6,12 +6,12 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: marketing-build2024-jeffonstage.jpg
+  image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blog & Portfolio"
+  title: "Projects"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: "As an AI Professional for 20+ years, I've worked on a broad range of projects, with many disciplines. I had the opportunity to work on exploratory research and time-crunching launches."
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
@@ -32,10 +32,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+# callforaction:
+#   url: https://tinyletter.com/feeling-responsive
+#   text: Inform me about new updates and features ›
+#   style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
