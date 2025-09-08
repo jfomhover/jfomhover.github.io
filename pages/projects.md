@@ -6,8 +6,19 @@ subheadline: "A collection of works, big and small, over my career."
 header: no
 permalink: "/projects/"
 ---
-<ul>
-    {% for post in site.categories.projects %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }} - {{ post.subheadline }}</a><br/>{{post.teaser}}</li>
-    {% endfor %}
-</ul>
+{% for post in site.categories.projects %}
+<div class="row">
+    <div class="small-12 columns b60">
+        <h2>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        </h2>
+        <p class="subheadline">{{ post.subheadline }}</P>
+        {% if post.image %}
+        <img src="{{ site.url }}{{ site.baseurl }}/images/{{ post.image.title }}" class="alignleft" width="150" height="150">
+        {% endif %}
+        {{post.teaser}}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><strong>Read More&nbsp;></strong></a>
+    </div>
+</div>
+{% endfor %}
+

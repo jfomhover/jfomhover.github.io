@@ -7,10 +7,8 @@ breadcrumb: true
 categories:
     - projects
 tags:
-    - projects
-    - azure-ml
     - microsoft
-    - data-science
+    - applied-science
 image:
     title: projects-federated-learning.png
     caption: Federated Learning Use Cases

@@ -7,7 +7,6 @@ breadcrumb: true
 categories:
     - projects
 tags:
-    - projects
     - github
     - microsoft
 image:

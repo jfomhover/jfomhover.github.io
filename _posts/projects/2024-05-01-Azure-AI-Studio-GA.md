@@ -7,8 +7,6 @@ breadcrumb: true
 categories:
     - projects
 tags:
-    - projects
-    - ai-foundry
     - product-management
     - microsoft
 image:
