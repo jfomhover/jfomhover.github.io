@@ -19,9 +19,7 @@ permalink: "/blog/"
         </h2>
         <p class="subheadline">
         <span class="subheader">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %} , {% endunless %}{% endfor %}
-        </span>
-        {{ post.subheadline }}
-        </p>
+        </span></p>
         {% if post.image %}
         <img src="{{ site.url }}{{ site.baseurl }}/images/{{ post.image.title }}" class="alignleft" width="150" height="150">
         {% endif %}
