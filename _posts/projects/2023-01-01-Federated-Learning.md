@@ -2,7 +2,7 @@
 layout: page
 subheadline: Ensure compliance of production machine learning pipelines
 title:  "Federated Learning in AzureML"
-teaser: "foo"
+teaser: "Enable production-ready Federated Learning (FL) within Azure Machine Learning to support privacy-preserving, multi-party model training. The goal was to empower internal and external partners—including three banks and one logistics company—to collaborate on machine learning without sharing raw data, using secure infrastructure and confidential compute."
 breadcrumb: true
 categories:
     - projects
