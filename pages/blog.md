@@ -11,8 +11,22 @@ image:
     title: blog-banner.jpg
 permalink: "/blog/"
 ---
-<ul>
-    {% for post in site.categories.blog %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }} - {{ post.subheadline }}</a><br/>{{post.teaser}}</li>
-    {% endfor %}
-</ul>
+{% for post in site.categories.blog %}
+<div class="row">
+    <div class="small-12 columns b60">
+        <h2>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        </h2>
+        <p class="subheadline">
+        <span class="subheader">{% for tag in post.tags %}{{ tag }}{% unless forloop.last %} , {% endunless %}{% endfor %}
+        </span>
+        {{ post.subheadline }}
+        </p>
+        {% if post.image %}
+        <img src="{{ site.url }}{{ site.baseurl }}/images/{{ post.image.title }}" class="alignleft" width="150" height="150">
+        {% endif %}
+        {{post.teaser}} &nbsp;
+        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><strong>Read More&nbsp;></strong></a>
+    </div>
+</div>
+{% endfor %}
