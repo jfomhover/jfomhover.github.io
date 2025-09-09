@@ -8,6 +8,7 @@ tags:
     - fiction
     - creative-writing
 author: Jeff Omhover
+header: no
 show_meta: true
 ---
 
