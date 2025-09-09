@@ -3,8 +3,9 @@ layout: page
 show_meta: false
 title: "Resume"
 permalink: "/info/"
+header: no
 image:
-    title: projects-resume.png
+    title: projects-resume.jpg
 ---
 
 ## 🏆 Full-Stack AI Product Leader
