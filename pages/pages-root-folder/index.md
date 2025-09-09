@@ -9,7 +9,7 @@ header:
   image_fullwidth: marketing-build2024-jeffonstage.jpg
 widget1:
   title: "Resume"
-  url: 'https://jfomhover.github.io/resume/'
+  url: 'https://jfomhover.github.io/info/'
   image: marketing-drawing-working.jpg
   text: "Experienced in AI across academia and industry, with a focus on building developer-facing platforms and leading multidisciplinary teams in product and system design."
 widget2:
