@@ -2,7 +2,7 @@
 layout: page
 subheadline: Ensure compliance of production machine learning pipelines
 title:  "Compliant AzureML"
-teaser: "foo"
+teaser: "Modernize the ML training experience for internal data scientists by migrating legacy pipelines into a secure, scalable and compliant AzureML platform. The goal was to standardize workflows, improve reproducibility and lineage, and ensure traceability and governance across teams."
 breadcrumb: true
 categories:
     - projects
