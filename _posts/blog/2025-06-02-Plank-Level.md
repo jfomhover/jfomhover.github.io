@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Plank-Level"
+teaser: "There was a breakthrough. The kind of moment that reshapes the air around you. The smallest quantum of energy, delicately coaxed from the void, manifested itself here—at CalTech, of all places..."
 breadcrumb: true
 categories:
     - blog
