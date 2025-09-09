@@ -12,7 +12,7 @@ permalink: "/projects/"
         <h2>
             <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
         </h2>
-        <p class="subheadline">{{ post.subheadline }}</P>
+        <p class="subheadline">{{ post.subheadline }}</p>
         {% if post.image %}
         <img src="{{ site.url }}{{ site.baseurl }}/images/{{ post.image.title }}" class="alignleft" width="150" height="150">
         {% endif %}
